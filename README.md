@@ -1,4 +1,4 @@
-# Winter Rock Operations - ANalysis 
+# Winter Rock Operations - Analysis 
 
 
 Overview

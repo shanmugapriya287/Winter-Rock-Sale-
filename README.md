@@ -9,7 +9,7 @@ This project analyzes Winter Rock's sales trends, forecasting, distribution opti
 
 - Sales Trends Analysis:
 
-1.Investigated time-series data to identify seasonal patterns.
+1. Investigated time-series data to identify seasonal patterns.
 2. Used 12-month centered moving average (CMA-12) for trend smoothing.
 
 - Sales Forecasting:
@@ -26,6 +26,7 @@ This project analyzes Winter Rock's sales trends, forecasting, distribution opti
 
 1. Developed a Decision Tree Model to compare supplier options.
 2. Conducted Monte Carlo Simulation to assess profitability.
+   
 ## 📈 Key Findings & Recommendations
 
 1️⃣ Sales Trends & Seasonality
